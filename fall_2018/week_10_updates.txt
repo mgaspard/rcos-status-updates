@@ -1,0 +1,15 @@
+## Last Week's Accomplishments
+
+Last week we successfully tested our ADC prototype on the side door in Amos Eaton. The general test was very successful, and from this I have noticed more tests that we should consider carrying out to ensure quality of the product. We should consider distance testing, as well as testing the signal through different materials. 
+
+## This Week's Plan
+
+We have officially and unanimously decided to keep our project open source, and in the long term offer a package and kits for people to buy. Our goals going forward are to develop a website/blog, finishing the box/casing, and preparing the hardware and software to send to Apple. I will be meeting with Prof. Turner on Friday to discuss moving forward with these plans. 
+
+## Anything Blocking?
+
+No blockers, just keeping on moving. The only blocker may be that we're trying to find affordable PCB's. The company we found is cheap but doesn't design check the circuit, so we need to ensure that everything will go well before we commit to buying from them. 
+
+## Notes
+
+None
